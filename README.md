@@ -4,8 +4,8 @@ When executing the generateAvro task, i wont to overwrite in my subprojects the 
 
 But only adding a closure in the subprojects build.gradle seems to not work. 
 
-#USAGE: 
+# USAGE: 
    ./gradlew generateAvro
   
-#EXPECTED BEHAVIOR:
+# EXPECTED BEHAVIOR:
   In build folder of "projectB" is only "ThisIsB.java" and in builder folder of "projectC" is only "ThisIsC.java".
