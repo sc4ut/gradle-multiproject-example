@@ -1,0 +1,10 @@
+[
+  {
+    "namespace": "com.example",
+    "type": "record",
+    "name": "ThisIsC",
+    "fields": [
+      { "name": "otherField", "type": "long" }
+    ]
+  }
+]
